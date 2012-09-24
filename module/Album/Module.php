@@ -3,6 +3,8 @@
 
 namespace Album;
 
+use Album\Model\AlbumTable;
+
 class Module
 {
 	public function getAutoloaderConfig()
